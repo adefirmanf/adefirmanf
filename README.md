@@ -6,7 +6,7 @@
     <a href="https://www.pixiv.net/en/users/11075375">Pixiv</a>
 </p>
 
-4 years as Software Engineer. Specialised in Backend. Yeah, backend only. Don't expect too much my Frontend skills, even my dominant language still Javascript but most of them using Node.JS. Fast learner and eager to explore new things.
+4 years as Software Engineer. Fast learner and eager to explore new things.
 
 I have interest with "How to be a good Software Engineer". So, recommend me books to read :) These are my list that I want to read, but I don't have any time ughhh
 
