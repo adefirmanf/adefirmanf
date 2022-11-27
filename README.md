@@ -7,15 +7,6 @@
 </p>
 
 4 years as Software Engineer. Fast learner and eager to explore new things.
-
-I have interest with "How to be a good Software Engineer". So, recommend me books to read :) These are my list that I want to read, but I don't have any time ughhh
-
- * Clean Code by Uncle Bob
- * Clean Architecture by Uncle Bob
- * The Software Craftsman Professionalism, Pragmatism, Pride by Sandro Mancuso
- * The Pragmatic Programmer by Andy Hunt, Dave Thomas
-
-
 I also do some Illustration, I posted my some works in <a href="https://www.pixiv.net/en/users/11075375">Pixiv</a>
 
 ----
