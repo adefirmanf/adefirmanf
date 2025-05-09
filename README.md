@@ -1,15 +1,13 @@
+### adefirmanf
+#### Hi hi! 
+Hi! Thanks for dropping by my GitHub page. I’m Adefirman — just a regular guy who loves to explore new tools to make my workflow faster. Right now I using Neovim as my main editor, plus tmux to manage my sessions. Everything is also terminal-based.
 
-<h3 align="center">👋 Hi there! I'm Ade Firman Fauzi</h3>
-<p align="center">
-  <a href="https://adefirmanf.github.io">Website</a> | 
-  <a href="https://twitter.com/sunadokei_27">Twitter</a> |
-    <a href="https://www.pixiv.net/en/users/11075375">Pixiv</a>
-</p>
+Most of the time, I do finance projects, help the finance team save time, and do less manual work. Automate here, automate there — so they can relax a bit. I also got a bit of blockchain, not an expert, but understand enough to play around.
 
-4 years as Software Engineer. Fast learner and eager to explore new things.
-I also do some Illustration, I posted my some works in <a href="https://www.pixiv.net/en/users/11075375">Pixiv</a>
+Sometimes I just like to try new tech, tweak things here and there, and see how to make it more efficient
 
-----
+#### Nerd Corner
+Keycron K3 Wireless with Brown Switch (Main keyboard), MacBook Air M3, and Logitech MX Master 3S 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adefirmanf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+#### A bit of personality
+I have limited energy when interacting with people; Indonesian and love Americano a lot
